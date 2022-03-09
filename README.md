@@ -2,7 +2,6 @@
 
 This package allows to perform a hyper parameters multiprocessing grid search on top of the Facebook's prophet package.
 
-Developed at SDG group.
 ### Installation ###
 #### Pip + Repository
 
@@ -50,5 +49,3 @@ In orther to add aditional regressors or seasonalities, just add parameters star
 You can try different combinations of seasonalities and regressor exacly the same as the general Hyperparameters.
 
 In order to know more about the possible Prophet Hyper parameters and additional regressors and seasonalities values, look in the [Prophet documentation](https://facebook.github.io/prophet/docs/quick_start.html#python-api):
-
-
